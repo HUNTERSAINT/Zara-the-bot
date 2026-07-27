@@ -1,0 +1,18 @@
+{
+  "clientId": "1530943991770517524",
+  "ownerId": "972219163823198298",
+  "prefix": "!",
+  "colors": {
+    "primary": "#5865F2",
+    "success": "#57F287",
+    "warning": "#FEE75C",
+    "error": "#ED4245",
+    "info": "#00B0F4"
+  },
+  "footer": "Server Architect",
+  "logChannel": "bot-logs",
+  "welcomeChannel": "welcome",
+  "suggestionsChannel": "suggestions",
+  "giveawayChannel": "giveaways",
+  "ticketCategory": "SUPPORT"
+}
